@@ -1,0 +1,140 @@
+.add{
+    text-align: left;
+}
+
+.navbar li{
+    border-right: 1px solid lightgray;
+}
+
+.navbar li:last-child{
+    border: none;
+ }
+
+.main-text{
+    padding: 15px 0 0 0;
+}
+ 
+.feed{
+    border: none;
+    padding: 5px;
+    font: 13px sans-serif;
+    width: 200px;
+    height: 300px;
+    overflow: scroll;
+    background-color:maroon;
+    color: white;
+    font-weight: lighter;
+    margin: 20px;
+    float:right;
+}
+
+.whatwedo{
+    padding: 20px 0 0 0;
+}
+
+.whoweare{
+    padding: 20px 0 0 0;
+}
+
+.nav-link{
+    color: black;
+}
+
+.nav-link{
+    color:black;
+    padding: 0;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+.add{
+    margin: 20px 0 0 0;
+    font-size: 13px;
+    float:right;
+}
+
+footer{
+    padding: 10px 0 0 0;
+}
+
+.bottom{
+    padding: 10px 0 0 0;
+}
+
+.navbar{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.main-img{
+    margin: 20px;
+}
+
+.tiles{
+    border: 5px double black;
+    padding: 5px;
+    margin: 5px;
+}
+
+.who-nav{
+    background-color: maroon;
+    color: white;
+    border: none;
+    padding: 5px;
+    font: 12px sans-serif;
+    width: 200px;
+    height: 300px;
+    font-weight: lighter;
+    margin: 20px;
+}
+
+.leftitem{
+    list-style: none;
+    text-align: left;
+    color:white; 
+}
+
+li a{
+    color:white;
+}
+
+.bottom-nav{
+    display: inline;
+    list-style: none;
+}
+
+.foot-item{
+    color:black;
+    font-weight: lighter;
+}
+
+.clearfix{
+    overflow: auto;
+}
+
+.created{
+    font-weight: lighter;
+    font-size: 12px;
+}
+
+.leftnav{
+    padding:0px;
+}
+
+.what-nav{
+    background-color: maroon;
+    color: white;
+    border: none;
+    padding: 5px;
+    font: 12px sans-serif;
+    width: 200px;
+    height: 450px;
+    font-weight: lighter;
+    margin: 20px;
+}
+
+.leftitem-what{
+    list-style: none;
+    text-align: left;
+    color:white; 
+}
